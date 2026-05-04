@@ -1,0 +1,1 @@
+We printed A4 sheets of paper and arranged them to form our poster. Thus instead of a single sheet, we have the papers that composed it.
