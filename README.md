@@ -1,6 +1,8 @@
 ## 1. Introduction  
 This repo re-implements *“A Watermark for Large Language Models”* (Kirchenbauer et al.), which proposes a method for embedding detectable watermarks in LLM-generated text via token-level biasing during generation.
 
+Done by Mya Bridgeforth (mjb555@cornell.edu) & Dong Liang (dl2287@cornell.edu).
+
 ## 2. Chosen Result  
 We reproduce Figures 3a, 3b, and Figure 2 (left), analyzing how δ (watermark strength) and γ (green list fraction) affect z-score and perplexity, capturing the trade-off between detectability and text quality.
 
